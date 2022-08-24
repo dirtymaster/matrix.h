@@ -1,6 +1,6 @@
 # matrix.h
 
-Implementation of the string.h library for working with matrices. The library is developed in C language of C11 standard using gcc compiler.
+Implementation of the matrix.h library for working with matrices. The library is developed in C language of C11 standard using gcc compiler.
 
 ### Matrix structure in C language:
 ```c
